@@ -18,8 +18,7 @@ https://nbviewer.org/github/PrestonMoore3/IBM-Data-Science-Capstone/blob/5c48e5f
 
 ## Exploratory Data Analysis with SQL
 
-To view "EDA SQL Notebook" please download the notebook. It can be viewed with Visual Studio Code or another program that can render Jupyter Notebooks.
-
+To view "EDA SQL Notebook" please see rednering here: https://github.com/PrestonMoore3/Winning_the_Space_Race/blob/98b3179792abe2396e48e07335d0e97711c4f1d2/jupyter-labs-eda-sql-coursera_sqllite%20-%202nd%20version.ipynb
 
 ## Python Folium Launch Sites Location Analysis
 To view "Launch Sites Locations Analysis with Folium" Jupyter Notebook, please see rendering here: 

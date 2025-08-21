@@ -26,4 +26,6 @@ To view "Launch Sites Locations Analysis with Folium" Jupyter Notebook, please s
 https://nbviewer.org/github/PrestonMoore3/IBM-Data-Science-Capstone/blob/99cab735536b0dee6616ebc8344d70e18dcf8368/Launch%20Sites%20Location%20Analysis%20with%20Folium.ipynb
 
 ## Python Machine Learning Predictive Analysis
-To view "SpaceX Machine Learning Predictive Analysis" please download the notebook. It can be viewed with Visual Studio Code or another program that can render Jupyter Notebooks.
+To view "SpaceX Machine Learning Predictive Analysis" please see rendering here: https://github.com/PrestonMoore3/Winning_the_Space_Race/blob/2c999c8d8b3f8ff2da9c521c1ce9384f81333399/SpaceX%20Machine%20Learning%20Prediction%20Part%205.ipynb
+
+

@@ -1,4 +1,4 @@
-# IBM-Data-Science-Capstone
+# Winning the Space Race with Data Science - a Python and SQL Exploration of the SpaceX Falcon 9 Rocket Launch
 # Each notebook represents my own work in the next step of the process, utilizing the skeleton code provided within the lab to produce the results.
 
 To view "Data Collection with APIs" Jupyter Notebook, please see rendering here:
